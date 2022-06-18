@@ -1,8 +1,8 @@
 
 ## Hi, I'm Andre! 👋
 
-[![Github Badge] (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrecarvalho027)](https://github.com/andrecarvalho027)
-[![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecarvalho0/)](https://www.linkedin.com/in/andrecarvalho0/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrecarvalho027)](https://github.com/andrecarvalho027)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrecarvalho0/)](https://www.linkedin.com/in/andrecarvalho0/)
 
 ## About me:
 
